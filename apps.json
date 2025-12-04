@@ -3,14 +3,65 @@
         {
             "name": "Afghan Currency (نرخ اسعار)",
             "icon": "icons/afghan_currency.jpg",
-            "andriod_package": "dev.rapidtech.afghan_currency_converter",
-            "ios_bundle": "1557819670"
+            "android_package": "dev.rapidtech.afghan_currency_converter",
+            "ios_bundle": "1557819670",
+            "order": 1
         },
         {
             "name": "Afghan Sim (خدمات سیم کارت ها)",
             "icon": "icons/afghan_sim.jpg",
-            "andriod_package": "af.sim.afg",
-            "ios_bundle": "1584549608"
+            "android_package": "af.sim.afg",
+            "ios_bundle": "1584549608",
+            "order": 2
+        },
+        {
+            "name": "Afghan Calendar (جنتری افغانی)",
+            "icon": "icons/afghan_calendar.jpg",
+            "android_package": "dev.yasin.calendar",
+            "ios_bundle": "6747943066",
+            "order": 3
+        },
+        {
+            "name": "هم‌گام - کتاب‌های مکتب 1 تا 12",
+            "icon": "icons/hamgam.jpg",
+            "android_package": "dev.yasin.maktab",
+            "ios_bundle": "6686404967",
+            "order": 4
+        },
+        {
+            "name": "Qandil (قندیل) - بازی با کلمات",
+            "icon": "icons/qandil.jpg",
+            "android_package": "dev.yasin.words",
+            "ios_bundle": "6751294471",
+            "order": 5
+        },
+        {
+            "name": "Whiteboard (تخته سفید)",
+            "icon": "icons/white_board.jpg",
+            "android_package": "dev.yasin.board",
+            "ios_bundle": "6749234202",
+            "order": 6
+        },
+        {
+            "name": "SignPad (امضاء الکترونیکی)",
+            "icon": "icons/sign_pad.jpg",
+            "android_package": "dev.yasin.sign",
+            "ios_bundle": "6498630221",
+            "order": 7
+        },
+        {
+            "name": "BMI & Weight Mgr (مدیریت وزن)",
+            "icon": "icons/bmi.jpg",
+            "android_package": "dev.yasin.bmi",
+            "ios_bundle": "6475755072",
+            "order": 8
+        },
+        {
+            "name": "یا مهدی",
+            "icon": "icons/yamahdi.jpg",
+            "android_package": "com.yasin.yamahdi",
+            "ios_bundle": "1672763907",
+            "order": 9
         }
     ]
 }
