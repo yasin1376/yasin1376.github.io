@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "name": "Afghan Currency (نرخ اسعار)",
+            "icon": "icons/afghan_currency.jpg",
+            "andriod_package": "dev.rapidtech.afghan_currency_converter",
+            "ios_bundle": "1557819670"
+        },
+        {
+            "name": "Afghan Sim (خدمات سیم کارت ها)",
+            "icon": "icons/afghan_sim.jpg",
+            "andriod_package": "af.sim.afg",
+            "ios_bundle": "1584549608"
+        }
+    ]
+}
