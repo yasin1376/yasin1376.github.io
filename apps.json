@@ -36,32 +36,39 @@
             "order": 5
         },
         {
+            "name": "Date Converter (تبدیل تاریخ)",
+            "icon": "icons/date_converter.jpg",
+            "android_package": "dev.yasin.date",
+            "ios_bundle": "6759036624",
+            "order": 6
+        },
+        {
             "name": "Whiteboard (تخته سفید)",
             "icon": "icons/white_board.jpg",
             "android_package": "dev.yasin.board",
             "ios_bundle": "6749234202",
-            "order": 6
+            "order": 7
         },
         {
             "name": "SignPad (امضاء الکترونیکی)",
             "icon": "icons/sign_pad.jpg",
             "android_package": "dev.yasin.sign",
             "ios_bundle": "6498630221",
-            "order": 7
+            "order": 8
         },
         {
             "name": "BMI & Weight Mgr (مدیریت وزن)",
             "icon": "icons/bmi.jpg",
             "android_package": "dev.yasin.bmi",
             "ios_bundle": "6475755072",
-            "order": 8
+            "order": 9
         },
         {
             "name": "یا مهدی",
             "icon": "icons/yamahdi.jpg",
             "android_package": "com.yasin.yamahdi",
             "ios_bundle": "1672763907",
-            "order": 9
+            "order": 10
         }
     ]
 }
