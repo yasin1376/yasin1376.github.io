@@ -50,25 +50,32 @@
             "order": 7
         },
         {
+            "name": "Afghan Rate (نرخ اسعار)",
+            "icon": "icons/afghan_rate.jpg",
+            "android_package": "dev.yasin.rate",
+            "ios_bundle": "6762588446",
+            "order": 8
+        },
+        {
             "name": "SignPad (امضاء الکترونیکی)",
             "icon": "icons/sign_pad.jpg",
             "android_package": "dev.yasin.sign",
             "ios_bundle": "6498630221",
-            "order": 8
+            "order": 9
         },
         {
             "name": "BMI & Weight Mgr (مدیریت وزن)",
             "icon": "icons/bmi.jpg",
             "android_package": "dev.yasin.bmi",
             "ios_bundle": "6475755072",
-            "order": 9
+            "order": 10
         },
         {
             "name": "یا مهدی",
             "icon": "icons/yamahdi.jpg",
             "android_package": "com.yasin.yamahdi",
             "ios_bundle": "1672763907",
-            "order": 10
+            "order": 11
         }
     ]
 }
