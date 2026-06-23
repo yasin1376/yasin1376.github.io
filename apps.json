@@ -71,11 +71,18 @@
             "order": 10
         },
         {
+            "name": "کتاب‌های مکتب افغانستان ۱-۱۲",
+            "icon": "icons/school_books.jpg",
+            "android_package": "dev.yasin.book",
+            "ios_bundle": "6771643473",
+            "order": 11
+        },
+        {
             "name": "یا مهدی",
             "icon": "icons/yamahdi.jpg",
             "android_package": "com.yasin.yamahdi",
             "ios_bundle": "1672763907",
-            "order": 11
+            "order": 12
         }
     ]
 }
